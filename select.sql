@@ -1,5 +1,5 @@
 -- Selekce všech vlastníků z tabulky owners seřazených vzestupně podle příjmení.
-
+    - SELECT * FROM owners ORDER BY last_name ASC;
 -- Selekce všech všech vlastníků z tabulky owners, kteří se narodili po roce 1980.
 
 -- Selekce všech vlastníků z tabulky owners, kteří pocházejí z města, jehož název začíná písmenem P
